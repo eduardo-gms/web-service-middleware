@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<requisicaoCadastro>
+  <cliente>
+    <nome>Bruce Wayne</nome>
+    <email>bruce@wayne.com</email>
+    <cpf>U2FsdGVkX1+vP5... (string criptografada) ...xYyqA==</cpf>
+  </cliente>
+</requisicaoCadastro>
