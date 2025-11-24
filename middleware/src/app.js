@@ -1,6 +1,3 @@
-// Carrega variáveis de ambiente do .env
-require('dotenv').config();
-
 const express = require('express');
 const apiRoutes = require('./routes/apiRoutes');
 
