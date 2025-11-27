@@ -64,6 +64,8 @@ Importe o arquivo `Colecao_Postman.json` no seu Postman ou use os exemplos abaix
 
 **IMPORTANTE:** Todas as requisições ao Middleware precisam de autenticação. No Postman, vá na aba **Authorization**, selecione **Bearer Token** e cole o token do seu arquivo `.env`: `token_secreto_para_proteger_a_api_123`.
 
+npx newman run Colecao_Postman.json
+
 ### 4.1. Cadastrar Cliente (POST)
 
 * **Método:** `POST`

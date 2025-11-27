@@ -13,7 +13,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "token_secreto_para_proteger_a_api_123",
+							"value": "token-123",
 							"type": "string"
 						}
 					]
@@ -53,7 +53,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "token_secreto_para_proteger_a_api_123",
+							"value": "token-123",
 							"type": "string"
 						}
 					]
@@ -83,7 +83,7 @@
 		"bearer": [
 			{
 				"key": "token",
-				"value": "token_secreto_para_proteger_a_api_123",
+				"value": "token-123",
 				"type": "string"
 			}
 		]
